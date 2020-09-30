@@ -11,7 +11,7 @@ Plotting using matplotlib only
   Listing 2:
     a) Print the shape of the dataset
     b) Print the first few rows of the dataset
-    c) Print the statistical descriptions of the dataset
+    c) Print the descriptive statistical summary of the dataset
     d) Print the class distribution in the dataset
   Listing 3:
     a) Univariate Plot
@@ -29,14 +29,14 @@ Plotting using matplotlib only
 Part 2:
 Plotting using matplotlib only
   Listing 6:
-  - Pairwise Pearson Correlation
-  - Skew for Each Attribute
+  - Pairwise Pearson Correlation 
+  - Skewness for Each Attribute
   - Univariate Density Plot
   - Correlation Matrix Plot
 
   Listing 7:
   - Rescaling Data
-  - Standardize Data
+  - Standardiz Data
   - Normalize Data
   - Binarize Data
   - Analysis after each listing
